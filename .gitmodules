@@ -1,0 +1,3 @@
+[submodule "Shoping-Cart"]
+	path = Shoping-Cart
+	url = https://github.com/RakeshVJ/Shopping-Cart.git
